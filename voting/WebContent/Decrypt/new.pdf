@@ -1,0 +1,93 @@
+22 TsinghuaScienceandTechnology,February 2014, 19(1): 13-23
+Experimental results show that the DR-Cloud model [10] M. Vrable, S. Savage, and G. M. Voelker, Cumulus:
+can cooperate with cloud service providers with various Filesystem backup to the cloud, ACM Transactions on
+parameters effectively, while data scheduling strategies Storage(TOS), vol. 5, no. 4, p. 14, 2009.
+[11] A. Bajpai, P. Rana, and S. Maitrey, Remote mirroring:
+of DR-Cloud can achieve their optimization objectives
+ef?ciently, which are widely applicable. A disaster recovery technique in cloud computing,
+In the future, we will further investigate other multi- InternationalJournalofAdvanceResearchinScienceand
+Engineering, vol. 2, no. 8, 2013.
+objective optimization algorithms to explore better
+[12] J. Zhang and N. Zhang, cloud computing-based data
+effect. We also plan to build a real DR-Cloud system
+storage and disaster recovery, in IEEE International
+to demonstrate its effectiveness. And we will study on
+replacing 3-replicas mechanism of DR-Cloud with ECC Conference on Future Computer Science and Education
+[15]
+codes to reduce backup data size, like R-ADMAD (ICFCSE), 2011, pp. 629-632.
+[13] Y. Tan, H. Jiang, D. Feng, L. Tian, and Z. Yan,
+did between multiple data servers, which will improve
+CABdedupe: A causality-based deduplication
+storage and network resource utilization.
+performance booster for cloud backup services, in
+Acknowledgements
+Parallel & Distributed Processing Symposium (IPDPS),
+This work was supported by the National High-Tech
+2011, pp. 1266-1277.
+Research and Development (863) Program of China
+[14] W. Li, Y. Yang, and D. Yuan, A novel cost-effective
+(No. 2012AA012609).
+dynamic data replication strategy for reliability in cloud
+data centers, in IEEE Ninth International Conference on
+References
+Dependable, Autonomic and Secure Computing (DASC),
+2011, pp. 496-502.
+[1] C. Warrick and S. John, A disaster recovery solution
+[15] C. Liu, Y. Gu, L. Sun, B. Yan, and D. Wang, R-
+selection methodology, IBM Corporation, February 2004.
+ADMAD: High reliability provision for large-scale de-
+[2] A. Greenberg, J. Hamilton, D. A. Maltz, and P. Patel,
+duplication archival storage systems, inProceedingsofthe
+The cost of a cloud: Research problems in data center
+23rd International Conference on Supercomputing, 2009,
+networks, ACM SIGCOMM Computer Communication
+pp. 370-379.
+Review, vol. 39, no. 1, pp. 68-73, 2008.
+[3] A. Fox, R. Grif?th, A. Joseph, R. Katz, A. Konwinski, [16] T. Wood, H. A. Lagar-Cavilla, K. K. Ramakrishnan,
+G. Lee, and I. Stoica, Above the clouds: A Berkeley
+P. Shenoy, and J. Van der Merwe, PipeCloud: Using
+view of cloud computing, Dept. Electrical Eng. and
+causality to overcome speed-of-light delays in cloud-
+Comput. Sciences, University of California, Berkeley,
+based disaster recovery, in Proceedings of the 2nd ACM
+Rep. UCB/EECS, 2009.
+SymposiumonCloudComputing, 2011, p. 17.
+[4] T. Wood, E. Cecchet, K. K. Ramakrishnan, P. Shenoy,
+[17] T. Nguyen, A. Cutway, and W. Shi, Differentiated
+J. Van der Merwe, and A. Venkataramani, Disaster
+replication strategy in data centers, in Proc. the
+recovery as a cloud service: Economic bene?ts &
+IFIP International Conference on Network and Parallel
+deployment challenges, in 2nd USENIX Workshop on Hot
+Computing, Guangzhou, China, 2010, pp. 277-288.
+TopicsinCloudComputing, Boston, USA, 2010.
+[18] C. Cachin, R. Haas, and M. Vukolic, Dependable storage
+[5] Amazon Corporation, Amazon simple storage service
+in the Intercloud,IBMResearch, vol. 3783, pp. 1-6, 2010.
+(Amazon S3), http://aws.amazon.com/s3, 2008.
+[19] D. Bermbach, M. Klems, S. Tai, and M. Menzel,
+[6] S. Ghemawat, H. Gobioff, and S. T. Leung, The Google ?le
+Metastorage: A federated cloud storage system to manage
+system, ACMSIGOPSOperatingSystemsReview, vol. 37,
+consistency-latency tradeoffs, in IEEE International
+no. 5, pp. 29-43, 2003.
+Conference on Cloud Computing (CLOUD), 2011, pp.
+[7] D. Borthakur, The hadoop distributed ?le system:
+452-459.
+Architecture and design, http://hadoop.apache.org/docs/
+[20] H. Wang, Q. Jing, R. Chen, B. He, Z. Qian, and L. Zhou,
+r0.18.0/hdfs design.pdf, 2007.
+Distributed systems meet economics: Pricing in the cloud,
+[8] J. R. Raphael, The 10 worst cloud outages (and what we
+in Proceedings of the 2nd USENIX Conference on Hot
+can learn from them), http://www.infoworld.com/d/cloud-
+TopicsinCloudComputing, Boston, USA, 2010, p. 6.
+computing/the-10-worst-cloud-outages-and-what-we-can-
+[21] J. Kennedy and R. Eberhart, Particle swarm optimization,
+learn-them-902, 2011.
+[9] J. R. Raphael, The worst cloud outages of 2013
+inProceedingsofthe1995IEEEInternationalConference
+(so far), http://www.infoworld.com/slideshow/107783/the-
+on Neural Networks, Perth, Australia, 1995, pp. 1942-
+worst-cloud-outages-of-2013-so-far-221831, 2013.
+1948.
